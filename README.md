@@ -12,7 +12,7 @@ The block diagram for our system is shown below:
 
 ## Demo
 
-[Demo Video](https://github.com/RishiKakade/Speech-Separating-Hearing-Aid/blob/main/assets/demo.mp4)
+[Demo Video](https://youtu.be/Zgwmc42L5wk)
 
 ## Contributors
 

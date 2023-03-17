@@ -12,7 +12,7 @@ The block diagram for our system is shown below:
 
 ## Demo
 
-[Demo Video](https://youtu.be/Zgwmc42L5wk)
+[![Watch the video](https://img.youtube.com/vi/Zgwmc42L5wk/maxresdefault.jpg)](https://www.youtube.com/watch?v=Zgwmc42L5wk)
 
 ## Contributors
 
